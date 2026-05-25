@@ -7,6 +7,7 @@
 - [Оффициальное введение в го от команды разработки языка,хватит чтобы базово понять или освежить знания](https://go.dev/tour/welcome/1) 
 - [Рейд босс гошных курсов, домашек и ресурсов очень много, если делать прямо вообще нечего, то пожалуйста](https://stepik.org/course/187490 )
 - [Свежий курс по го на степике](https://stepik.org/course/172812)
+
 ## Ещё когда-то давно вот такой список сохранял из какой-то беседы, не знаю что тут работает или нет, но вроде много ресурсов
 
 - https://go.dev/doc/
@@ -41,7 +42,7 @@
 - [Видео про планировщик , подробно насколько это возможно, закрывает все темы , но достаточно  много терминов и понятий](https://www.youtube.com/watch?v=kedW1xO3Zbo) 
 - [Более неформальное объяснение планировщика на простых примерах, кажется , что более понятное для первых разов](https://www.youtube.com/watch?v=z9xXThOOMWc)
 - [Видео где затрагивают все темы](https://www.youtube.com/watch?v=4aTt9E-EG-o)
-
+- [Статья с полным объяснением синк мапы](https://habr.com/ru/companies/karuna/articles/834400/)
 
 
 # Интерфейсы 
@@ -53,10 +54,26 @@
 
 # Cлайсы
 - [Видео про слайсы, Николай Тузов](https://www.youtube.com/watch?v=10LW7NROfOQ)
-
+- [Видео по массивам и слайсам от Балуна](https://www.youtube.com/watch?v=r4Fyac9nyF4)
 
 
 # Контекст
 - [Хорошее видео с объяснением смысла контекста в языке](https://www.youtube.com/watch?v=Fjkckov4F38)
 - [Контекст на примере](https://www.youtube.com/watch?v=cbP1ShYndHg)
 - [Хорошее видео с примерами сразу в коде](https://www.youtube.com/watch?v=qDgs2FJakVQ)
+
+
+
+# Мапа
+- [Теория по хеш таблицам в целом](https://www.youtube.com/watch?v=0UX4MIfOMEs)
+- [Новая реализация](https://www.youtube.com/watch?v=sccdc5bTzfo)
+- [старая реализация, спрашивают как было](https://www.youtube.com/watch?v=P_SXTUiA-9Y)
+- [Видео про новую мапу](https://www.youtube.com/watch?v=lfeOR6zDnx4)
+
+# Каналы
+- [Видео Николая Тузова](https://www.youtube.com/watch?v=ZTJcaP4G4JM)
+- [Большое видео от Балуна](https://www.youtube.com/watch?v=k3PgD5k12XE)
+- [Паттерны использования каналов от Балуна](https://www.youtube.com/watch?v=luQlkud-jKE)
+- [Хорошее видео про каналы](https://www.youtube.com/watch?v=k-1OEYl7N8Q)
+- [Паттерны работы с каналами от Авито](https://www.youtube.com/watch?v=GZSfn-8m-ko)
+- [Паттерны параллельных вычислений с каналами от Авито](https://www.youtube.com/watch?v=SCsUO9MSHac)

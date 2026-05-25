@@ -17,7 +17,7 @@
 - [Полное общее видео на эту тему, но с перекосом в девопса, можно не на 100% соотвествовать](https://www.youtube.com/watch?v=2yoRWrc0MA0)
 - [Большое видео про Github Actions](https://www.youtube.com/watch?v=e0A2hDObLmg)
 ## Статьи
-- [Неплохая статья ](https://habr.com/ru/articles/768770/) //
+- [Неплохая статья ](https://habr.com/ru/articles/768770/)
 - [Статья селектела по теме github actions](https://selectel.ru/blog/how-to-work-with-github-actions/)
 - [Оффициальная документация github actions](https://docs.github.com/ru/actions/get-started/quickstart) 
 

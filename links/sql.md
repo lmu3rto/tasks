@@ -18,7 +18,27 @@
 
 
 
-# Разбор практических тем
-- [Видео про индексы](https://www.youtube.com/watch?v=LpEwssOYRKA)
-- [Нормализация в БД](https://www.youtube.com/watch?v=zqQxWdTpSIA)
+# Разбор практических тем (все в одном месте)
 - [Оконные функции](https://www.youtube.com/watch?v=phIR9W0yIaE)
+- [JOINы](https://blog.skillfactory.ru/glossary/join-sql/)
+
+## Нормализация баз данных
+- [Нормализация в БД #1](https://www.youtube.com/watch?v=zqQxWdTpSIA)
+- [Нормализация в БД #2](https://www.youtube.com/watch?v=0kq99Y8m0gw)
+- [Нормализация в БД #3](https://www.youtube.com/watch?v=zwQzL80U51c)
+
+## Индексы 
+- [Видео про индексы](https://www.youtube.com/watch?v=LpEwssOYRKA)
+- [Хорошее видео про B-TREE индекс](https://www.youtube.com/watch?v=mnEU2_cwE_s)
+
+## Транзации
+- [Подробное видео про транзакции часть 1](https://www.youtube.com/watch?v=Pv82hAAtUcY)
+- [Подробное видео про транзакции часть 2, с практическими примерами](https://www.youtube.com/watch?v=ng1bd-cAbkE)
+
+
+## Оптимизация запросов
+- [Большое подробное видео про explain](https://www.youtube.com/watch?v=PvfGmk966TQ)
+- [Доклад по оптимизации запросов #1](https://www.youtube.com/watch?v=dm_oid1HVfQ)
+- [Ошибки при оптимизации SQL запросов](https://www.youtube.com/watch?v=6FDNskx6xV4)
+- [Доклад по оптимизации запросов #2](https://www.youtube.com/watch?v=6FDNskx6xV4)
+- [Ускорение запросов](https://www.youtube.com/watch?v=bgLSn23g768)
