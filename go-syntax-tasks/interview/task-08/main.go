@@ -35,3 +35,12 @@ LOOP:
 LABEL:
 	fmt.Println("cinco, cinco, seís")
 }
+
+
+
+
+
+// Напечатает:
+// cuatro, cinco, cinco, seís
+
+// 

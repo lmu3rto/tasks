@@ -54,3 +54,9 @@ func slicely() []int {
 	out = make([]int, 3)
 	return out
 }
+
+
+//4) Напечатает:
+// 1 2
+// 10 20
+// 0 1 0
